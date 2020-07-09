@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Title : Artificial Neural Network with 1 input and 1 output layer from scratch
-Created on Wed Oct  9 17:14:14 2019
-@author: nageshsinghchauhan
 """
 
 import numpy as np
